@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mission-adelvalle
+- 👀 I’m interested in ...   
+    AWS | programming | k8s | terraform
+- 🌱 I’m currently learning ...  
+    aws-sdk-go-v2
+- 💞️ I’m looking to collaborate on ...  
+    AWS CDK | go _projects_ | terraform providers
+- 📫 How to reach me ...
+    adelvalle@missioncloud.com
+<!---
+mission-adelvalle/mission-adelvalle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
